@@ -9,8 +9,4 @@ This project simulates the organization of a gym environment and demonstrates ho
 - Calculates the messiness of the gym based on misplaced equipment.
 
 ## How to Run
-Ensure you have Python installed on your machine. Make sure you have Seaborn installed as well. You can run the project by cloning the repository and executing the main script:
-```bash
-git clone [https://github.com/olivialrp/Gym-dumbbels-disorder-.git]
-cd [https://github.com/olivialrp/Gym-dumbbels-disorder-]
-python main.py
+Ensure you have Python installed on your machine. Make sure you have Seaborn installed as well to visualize the graph of the result. You can run the project by cloning the repository and executing the main.py script.
